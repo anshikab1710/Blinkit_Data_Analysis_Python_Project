@@ -1,10 +1,10 @@
-# 📦 Blinkit Data Analysis
+# Blinkit Data Analysis
 
 This project presents an exploratory data analysis (EDA) of Blinkit's operational dataset using Python. It uncovers key patterns in product sales, user behavior, and performance metrics — helping guide business insights and optimization strategies.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 **`Blinkit_data_analysis.ipynb`** – Main Jupyter Notebook including:
 
@@ -16,7 +16,7 @@ This project presents an exploratory data analysis (EDA) of Blinkit's operationa
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 -  Python 3.x  
 -  NumPy  
@@ -26,7 +26,7 @@ This project presents an exploratory data analysis (EDA) of Blinkit's operationa
 
 ---
 
-## 🧠 How to Use
+## How to Use
 
 
 Open `Blinkit_data_analysis.ipynb` in Jupyter Notebook
@@ -35,7 +35,7 @@ Run the cells step by step to perform the analysis
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 -  Most frequently purchased items are essentials like fruits, vegetables, and dairy
 -  Products priced lower than ₹100 have the highest order frequency
